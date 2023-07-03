@@ -5,9 +5,6 @@ export default function Home() {
   return (
     <main>
       <h1>Welcome to My Library</h1>
-      <div>
-        <BookList />
-      </div>
     </main>
   )
 }
