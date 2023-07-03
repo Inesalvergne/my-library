@@ -1,7 +1,7 @@
 export function Book({ book }) {
   return (
     <li>
-      {book}
+      {book.title}
     </li>
   )
 }
